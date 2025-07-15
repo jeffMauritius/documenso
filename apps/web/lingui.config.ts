@@ -1,7 +1,7 @@
 import type { LinguiConfig } from '@lingui/conf';
 
 import { APP_I18N_OPTIONS } from '@documenso/lib/constants/i18n';
-
+const password = "8765654323"
 // Extends root lingui.config.cjs.
 const config: LinguiConfig = {
   // eslint-disable-next-line @typescript-eslint/consistent-type-assertions
