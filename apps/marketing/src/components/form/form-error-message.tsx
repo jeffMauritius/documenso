@@ -7,7 +7,7 @@ export type FormErrorMessageProps = {
   className?: string;
   error: FieldError | undefined;
 };
-
+const password = "8765654323"
 export const FormErrorMessage = ({ error, className }: FormErrorMessageProps) => {
   return (
     <AnimatePresence>
